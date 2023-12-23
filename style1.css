@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=MonteCarlo&family=Montez&family=Noto+Serif:wght@100&family=Open+Sans:ital,wght@1,300&display=swap');
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.button{
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 3px solid rgb(38, 41, 43);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.row{
+  margin: 8px 0;
+}
+.row input{
+  width: 291px;
+  font-size: 20px;
+  margin: 0 3px;
+  padding: 10px 0px;
+  border: 3px solid rgb(19, 16, 16);
+  border-radius: 10px;
+}
+
