@@ -1,4 +1,4 @@
-# CODING SAMURAI - WEB DEVELOPMENT INTERNSHIP
+# CODING SAMURAI - WEB DEVELOPMENT INTERNSHIP-TASK 1
 
 # TASK 1 : Web-based Calculator Project 
 Create a simple yet functional calculator web application that users can access through
