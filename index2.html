@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style2.css">
+    <title>To-Do List</title>
+</head>
+<body>
+    <div id="app">
+        <h1>To-Do List</h1>
+        <div id="task-container">
+            <div id="tasks"></div>
+        </div>
+        <div id="add-task-container">
+            <input type="text" id="new-task" placeholder="Add a new task">
+            <button onclick="addTask()">Add Task</button>
+        </div>
+        <div id="edit-task-container" style="display: none;">
+        <input type="text" id="edit-task-text" placeholder="Edit task">
+        <button onclick="saveEdit()">Save</button>
+        <button onclick="cancelEdit()">Cancel</button>
+</div>
+
+    </div>
+
+    <script src="script2.js"></script>
+</body>
+</html>
